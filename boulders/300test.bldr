@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Apr 28 14:32:38 CEST 2019
+wall=moonboard300.wall
+date=1556454758778
+name=300test
+author=vana
+grade=3
+top=6,5;12,10;
+path=0,14;
+start=0,0;19,0;19,14;
