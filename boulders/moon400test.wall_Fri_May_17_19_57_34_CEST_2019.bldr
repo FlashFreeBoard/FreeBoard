@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Fri May 17 19:57:43 CEST 2019
+wall=moon400test.wall
+date=1558115863404
+name=moon400test.wall Fri May 17 19\:57\:34 CEST 2019
+author=sign_yourself
+grade=0
+top=9,0;
+path=6,7;11,14;17,16;
+start=6,19;
