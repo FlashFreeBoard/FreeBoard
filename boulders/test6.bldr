@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Aug 14 18:39:52 CEST 2019
+wall=moon400test.wall
+date=1557835959303
+name=test6
+author=vana
+grade=13
+top=16,0;18,0;
+path=18,2;12,6;9,9;6,11;
+start=0,16;2,16;
