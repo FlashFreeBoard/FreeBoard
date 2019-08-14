@@ -1,10 +1,10 @@
 #x1,y1;x2,y2;...;xn,yn;
-#Wed Aug 14 18:45:40 CEST 2019
+#Wed Aug 14 18:47:48 CEST 2019
 wall=moon400test.wall
-date=1565801135940
+date=1565801257100
 name=test1
-author=vana
-grade=5
-top=2,0;
-path=5,8;11,11;
-start=10,17;
+author=judovana
+grade=3
+top=9,0;
+path=9,6;9,10;9,13;
+start=8,17;10,19;
