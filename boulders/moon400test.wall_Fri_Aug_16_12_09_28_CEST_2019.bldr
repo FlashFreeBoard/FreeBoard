@@ -1,10 +1,10 @@
 #x1,y1;x2,y2;...;xn,yn;
-#Fri Aug 16 12:09:40 CEST 2019
+#Fri Aug 16 12:10:36 CEST 2019
 wall=moon400test.wall
 date=1565950180615
 name=moon400test.wall Fri Aug 16 12\:09\:28 CEST 2019
 author=sign_yourself
-grade=17
+grade=19
 top=10,4;
 path=
 start=11,12;8,16;
