@@ -1,10 +1,10 @@
 #x1,y1;x2,y2;...;xn,yn;
-#Fri Aug 16 12:11:08 CEST 2019
+#Fri Aug 16 12:11:46 CEST 2019
 wall=moon400test.wall
 date=1565878419041
 name=moon400test.wall Thu Aug 15 16\:13\:10 CEST 2019
 author=podepi\u0161_Se
-grade=31
+grade=35
 top=
 path=7,4;8,4;9,4;7,5;7,6;8,6;7,7;7,8;8,8;9,8;
 start=
