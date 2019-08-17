@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Aug 17 15:21:20 CEST 2019
+wall=moon400test.wall
+date=1566048080466
+name=best boulder ever
+author=hustak franta
+grade=9
+top=16,0;
+path=16,6;16,12;
+start=11,15;12,16;9,19;
