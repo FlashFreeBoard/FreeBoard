@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Aug 17 16:28:53 CEST 2019
+wall=moon400test.wall
+date=1566052121834
+name=missing_boulder_name
+author=sign_yourself
+grade=12
+top=
+path=7,4;11,7;10,10;8,12;
+start=
