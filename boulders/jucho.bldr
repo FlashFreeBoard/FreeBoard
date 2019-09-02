@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Sep 02 18:50:24 CEST 2019
+wall=moon400test.wall
+date=1567443024283
+name=jucho
+author=korba
+grade=18
+top=13,0;
+path=16,3;16,5;9,6;8,7;8,9;9,11;11,11;15,12;14,15;
+start=9,17;13,18;
