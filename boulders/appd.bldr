@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 02 13:30:16 CET 2019
+wall=moon400test.wall
+date=1572697793439
+name=appd
+author=app-data
+grade=12
+top=
+path=12,2;12,3;12,9;
+start=10,14;14,14;12,17;
