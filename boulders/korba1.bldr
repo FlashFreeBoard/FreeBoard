@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue May 14 14:27:43 CEST 2019
+wall=test15x15.wall
+date=1557836863603
+name=korba1
+author=franta
+grade=6
+top=4,1;
+path=8,4;6,7;5,10;
+start=8,12;

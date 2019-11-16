@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu May 09 19:51:42 CEST 2019
+wall=moon400test.wall
+date=1557424302567
+name=easyClac1
+author=judovana
+grade=35
+top=10,19;
+path=0,19;
+start=15,18;5,19;15,19;
