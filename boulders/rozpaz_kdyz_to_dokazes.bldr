@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Nov 17 20:53:33 CET 2019
+wall=Olomouc20191116.wall
+date=1574020405927
+name=rozpaz kdyz to dokazes
+author=korba
+grade=19
+top=1,5;
+path=3,6;8,6;7,7;13,9;15,9;18,9;12,10;10,11;1,12;11,15;22,15;
+start=22,9;20,12;
