@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Nov 18 21:38:32 CET 2019
+wall=Olomouc20191116.wall
+date=1574109506010
+name=dalsi bobe
+author=bob
+grade=21
+top=17,0;
+path=17,2;13,3;12,5;10,7;17,8;11,10;
+start=8,12;10,12;
