@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Nov 20 22:51:36 CET 2019
+wall=Olomouc20191116.wall
+date=1574286679712
+name=nasedni
+author=Lukas`O
+grade=18
+top=12,0;
+path=9,2;8,4;3,6;6,8;11,9;1,12;
+start=4,10;
