@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Nov 25 09:57:57 CET 2019
+wall=Olomouc20191116.wall
+date=1574672270399
+name=tlacenka
+author=korba
+grade=17
+top=1,1;
+path=3,3;2,6;4,7;6,9;4,10;1,12;5,13;14,13;
+start=11,8;
