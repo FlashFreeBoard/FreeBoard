@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue Nov 26 10:10:43 CET 2019
+wall=Olomouc20191116.wall
+date=1574759432830
+name=CATCH ME IF YOU CAN
+author=VASEK
+grade=15
+top=7,0;
+path=4,3;9,5;6,6;6,8;4,10;
+start=5,13;
