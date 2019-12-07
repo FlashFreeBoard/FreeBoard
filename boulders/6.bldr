@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Dec 07 17:42:13 CET 2019
+wall=Olomouc20191116.wall
+date=1575736917609
+name=6
+author=Jura
+grade=15
+top=19,0;
+path=17,1;19,4;16,6;12,8;15,8;16,13;11,15;
+start=8,11;11,11;
