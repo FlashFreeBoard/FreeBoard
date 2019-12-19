@@ -1,9 +1,0 @@
-#x1,y1;x2,y2;...;xn,yn;
-#Fri Feb 08 07:43:40 CET 2019
-wall=moonboard.wall
-date=1549608202830
-name=maaa
-grade=0
-top=0,0;
-path=4,3;3,4;7,4;1,6;1,8;
-start=4,11;0,14;1,17;
