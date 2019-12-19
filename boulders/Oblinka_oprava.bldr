@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Dec 07 15:11:14 CET 2019
+wall=Olomouc20191116.wall
+date=1575727863773
+name=Oblinka;oprava
+author=Krystof
+grade=20
+top=
+path=7,0;8,3;9,5;10,7;6,8;
+start=4,11;2,12;

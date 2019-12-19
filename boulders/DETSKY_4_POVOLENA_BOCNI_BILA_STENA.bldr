@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue Nov 26 09:34:34 CET 2019
+wall=Olomouc20191116.wall
+date=1574757268021
+name=DETSKY 4 POVOLENA BOCNI BILA STENA
+author=VASEK
+grade=10
+top=22,0;
+path=20,2;21,4;22,6;21,9;
+start=20,12;22,12;

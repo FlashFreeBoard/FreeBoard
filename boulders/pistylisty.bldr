@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Nov 17 21:12:33 CET 2019
+wall=Olomouc20191116.wall
+date=1574021524172
+name=pistylisty
+author=hanz
+grade=17
+top=7,0;
+path=11,1;11,4;13,7;10,9;9,10;
+start=10,13;

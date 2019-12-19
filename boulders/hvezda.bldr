@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 30 21:31:21 CET 2019
+wall=Olomouc20191116.wall
+date=1575145860470
+name=hvezda
+author=Ryo
+grade=14
+top=7,0;
+path=7,2;8,4;3,6;7,9;11,9;0,10;
+start=5,13;

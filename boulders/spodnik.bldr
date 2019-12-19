@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 23 01:51:33 CET 2019
+wall=Olomouc20191116.wall
+date=1574470284691
+name=spodnik
+author=korba
+grade=14
+top=15,0;
+path=16,4;14,6;12,7;13,9;18,9;4,10;8,10;15,12;11,15;
+start=5,13;

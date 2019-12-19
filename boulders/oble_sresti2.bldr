@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Nov 25 04:50:56 CET 2019
+wall=Olomouc20191116.wall
+date=1574653848317
+name=oble sresti2
+author=budinska
+grade=18
+top=15,0;
+path=19,4;21,7;15,8;18,8;13,10;22,12;
+start=10,13;

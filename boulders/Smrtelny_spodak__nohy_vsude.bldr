@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Dec 02 05:37:21 CET 2019
+wall=Olomouc20191116.wall
+date=1575261432861
+name=Smrtelny spodak, nohy vsude
+author=Vasek
+grade=13
+top=16,0;
+path=19,2;16,3;17,3;14,6;15,8;13,10;
+start=11,12;

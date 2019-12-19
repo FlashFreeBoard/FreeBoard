@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 16 20:30:24 CET 2019
+wall=Olomouc20191116.wall
+date=1573932609022
+name=placak
+author=korba
+grade=15
+top=7,0;
+path=8,1;12,3;12,6;10,7;6,8;8,10;
+start=5,13;

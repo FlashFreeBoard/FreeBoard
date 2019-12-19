@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Nov 17 20:13:30 CET 2019
+wall=Olomouc20191116.wall
+date=1574018010616
+name=lehka svestka
+author=korba
+grade=16
+top=7,0;
+path=4,3;6,4;2,6;6,8;4,10;1,12;
+start=5,13;

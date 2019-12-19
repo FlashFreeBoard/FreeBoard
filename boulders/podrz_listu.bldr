@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 23 02:39:45 CET 2019
+wall=Olomouc20191116.wall
+date=1574473177356
+name=podrz listu
+author=korba
+grade=23
+top=19,0;
+path=20,3;18,5;20,6;11,8;12,8;18,9;9,10;14,13;22,15;
+start=11,12;

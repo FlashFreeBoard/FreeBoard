@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Nov 17 23:54:57 CET 2019
+wall=Olomouc20191116.wall
+date=1574031259623
+name=obr a palecek
+author=jaraterka
+grade=12
+top=15,0;
+path=15,2;19,4;19,6;21,9;
+start=19,12;

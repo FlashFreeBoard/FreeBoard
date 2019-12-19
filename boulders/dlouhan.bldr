@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Nov 30 21:38:32 CET 2019
+wall=Olomouc20191116.wall
+date=1575146305651
+name=dlouhan
+author=ryo
+grade=16
+top=16,0;
+path=19,4;17,8;17,9;21,9;13,10;22,15;
+start=10,13;

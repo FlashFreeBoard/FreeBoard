@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Nov 17 19:27:55 CET 2019
+wall=Olomouc20191116.wall
+date=1574015266685
+name=onda a olda
+author=riso
+grade=12
+top=10,0;
+path=18,2;12,3;16,4;19,5;10,7;16,7;21,9;15,10;17,10;16,13;
+start=22,12;

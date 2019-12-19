@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Nov 20 23:11:23 CET 2019
+wall=Olomouc20191116.wall
+date=1574287875076
+name=moonboard style
+author=Lukas`O
+grade=19
+top=17,0;
+path=17,2;22,4;20,5;17,7;19,10;
+start=21,11;20,12;

@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Dec 07 18:06:28 CET 2019
+wall=Olomouc20191116.wall
+date=1575738377298
+name=PUMPOVACKA
+author=Krystof
+grade=26
+top=15,0;
+path=16,2;9,5;15,5;3,6;10,7;14,7;15,11;1,12;11,15;
+start=2,8;6,10;3,14;7,14;

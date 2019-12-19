@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Nov 18 22:05:57 CET 2019
+wall=Olomouc20191116.wall
+date=1574111140684
+name=tenke prsty
+author=bob
+grade=19
+top=10,0;
+path=9,2;10,4;12,6;10,7;13,8;18,9;19,9;13,12;
+start=22,11;

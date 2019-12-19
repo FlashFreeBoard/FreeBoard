@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Nov 27 20:13:26 CET 2019
+wall=Olomouc20191116.wall
+date=1574881985582
+name=to das
+author=svetla
+grade=15
+top=4,0;
+path=3,2;8,3;6,6;6,8;3,10;3,11;
+start=2,12;

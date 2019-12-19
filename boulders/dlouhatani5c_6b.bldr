@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Nov 18 00:25:43 CET 2019
+wall=Olomouc20191116.wall
+date=1574033127397
+name=dlouhatani5c,6b
+author=jaraterka
+grade=13
+top=7,0;15,0;
+path=11,0;8,1;9,4;16,4;15,5;11,7;16,7;15,8;10,9;11,12;
+start=16,12;10,13;
