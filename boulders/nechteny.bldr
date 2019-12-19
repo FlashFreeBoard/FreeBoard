@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Dec 19 20:39:04 CET 2019
+wall=Olomouc20191116.wall
+date=1576784271410
+name=nechteny
+author=metalovej matej
+grade=15
+top=7,0;
+path=7,2;8,4;7,7;8,8;5,9;
+start=4,11;
