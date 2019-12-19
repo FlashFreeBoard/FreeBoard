@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Dec 19 16:26:56 CET 2019
+wall=Olomouc20191116.wall
+date=1576769210150
+name=prduch
+author=korba
+grade=18
+top=10,0;
+path=12,2;11,5;16,5;14,9;18,9;16,10;19,14;
+start=14,13;
