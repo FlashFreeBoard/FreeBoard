@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Dec 22 10:36:42 CET 2019
+wall=Olomouc20191116.wall
+date=1577007368084
+name=prvni boulder [nesmis na neoznacene chyty]
+author=Tobes
+grade=13
+top=7,0;
+path=5,2;7,4;7,5;8,6;6,7;9,8;6,10;7,12;5,13;
+start=5,8;7,9;
