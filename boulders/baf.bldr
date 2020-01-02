@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 02 17:55:44 CET 2020
+wall=Olomouc20191116.wall
+date=1577984137051
+name=baf
+author=M
+grade=26
+top=7,0;
+path=8,3;15,3;15,6;7,8;13,8;14,10;10,11;14,12;
+start=10,13;
