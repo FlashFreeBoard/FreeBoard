@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 02 18:15:17 CET 2020
+wall=Olomouc20191116.wall
+date=1577985311582
+name=Rezka z Tesca
+author=Krystof
+grade=24
+top=4,0;
+path=9,2;6,4;23,4;10,5;9,7;3,8;8,8;5,10;
+start=2,11;4,12;
