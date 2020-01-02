@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 02 19:09:52 CET 2020
+wall=Olomouc20191116.wall
+date=1577988586955
+name=vodnajs
+author=Krystof
+grade=15
+top=15,0;
+path=14,2;15,5;13,9;11,12;
+start=17,10;
