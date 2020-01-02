@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 02 17:01:25 CET 2020
+wall=Olomouc20191116.wall
+date=1577980874601
+name=pohoda
+author=Krystof
+grade=14
+top=7,0;
+path=9,2;7,5;7,9;8,12;
+start=3,11;4,11;
