@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Jan 04 12:59:05 CET 2020
+wall=Olomouc20191116.wall
+date=1578139127285
+name=vykrucaj
+author=RYO
+grade=15
+top=15,0;
+path=12,3;9,6;7,7;11,7;4,10;7,10;11,12;
+start=5,13;
