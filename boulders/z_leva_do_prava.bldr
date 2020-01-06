@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Jan 06 19:43:27 CET 2020
+wall=Olomouc20191116.wall
+date=1578336196145
+name=z leva do prava
+author=terka
+grade=15
+top=7,0;
+path=3,2;5,5;7,9;7,12;
+start=11,12;
