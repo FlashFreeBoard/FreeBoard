@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Jan 06 20:11:31 CET 2020
+wall=Olomouc20191116.wall
+date=1578337882894
+name=vojtuv trenink/nohy vsude
+author=vojta
+grade=10
+top=12,0;
+path=11,2;12,3;12,5;11,7;12,8;13,9;12,10;
+start=13,12;
