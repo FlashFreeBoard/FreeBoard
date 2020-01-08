@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Jan 08 20:12:18 CET 2020
+wall=Olomouc20191116.wall
+date=1578510729504
+name=nikdy nebyli
+author=jaraterka
+grade=16
+top=8,1;
+path=5,1;10,2;3,3;6,4;10,4;3,5;12,5;2,6;13,6;15,6;3,7;14,8;2,9;16,9;14,12;
+start=2,12;16,13;
