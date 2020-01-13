@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Jan 13 18:06:20 CET 2020
+wall=Olomouc20191116.wall
+date=1578935150685
+name=Temer svisle
+author=Michal
+grade=14
+top=22,0;
+path=20,2;22,4;19,6;19,8;19,10;
+start=19,12;
