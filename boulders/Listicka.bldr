@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Jan 19 12:48:59 CET 2020
+wall=Olomouc20191116.wall
+date=1579434509752
+name=Listicka
+author=RYO
+grade=14
+top=2,0;
+path=4,3;8,4;0,6;6,7;7,9;
+start=3,12;6,12;
