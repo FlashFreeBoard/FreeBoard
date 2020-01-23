@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 23 20:17:45 CET 2020
+wall=Olomouc20191116.wall
+date=1579807056524
+name=spajdrmen
+author=strojari
+grade=15
+top=7,0;
+path=11,2;13,3;13,5;15,7;8,8;
+start=13,12;
