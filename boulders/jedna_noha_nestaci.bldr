@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 23 20:02:13 CET 2020
+wall=Olomouc20191116.wall
+date=1579806120888
+name=jedna noha nestaci
+author=strojari
+grade=13
+top=10,0;
+path=6,3;5,5;7,9;
+start=5,13;
