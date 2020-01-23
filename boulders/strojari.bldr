@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jan 23 20:37:20 CET 2020
+wall=Olomouc20191116.wall
+date=1579808231258
+name=strojari
+author=rezpekt
+grade=15
+top=14,0;
+path=12,1;16,3;16,6;16,7;13,10;
+start=10,13;
