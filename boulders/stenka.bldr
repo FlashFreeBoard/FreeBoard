@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Feb 02 13:59:09 CET 2020
+wall=Olomouc20191116.wall
+date=1580648337155
+name=stenka
+author=david
+grade=15
+top=22,0;
+path=20,3;21,5;20,6;18,9;17,11;22,15;
+start=21,9;
