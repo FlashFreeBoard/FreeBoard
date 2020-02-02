@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Feb 02 13:36:01 CET 2020
+wall=Olomouc20191116.wall
+date=1580646948575
+name=hop
+author=david
+grade=12
+top=19,0;
+path=16,4;20,7;13,8;
+start=19,12;
