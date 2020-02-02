@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Feb 02 13:47:34 CET 2020
+wall=Olomouc20191116.wall
+date=1580647641221
+name=magor
+author=Voja
+grade=17
+top=7,0;
+path=7,4;5,13;9,14;
+start=8,10;
