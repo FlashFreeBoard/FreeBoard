@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Feb 02 14:08:19 CET 2020
+wall=Olomouc20191116.wall
+date=1580648890328
+name=skok
+author=vojta
+grade=18
+top=15,0;
+path=15,3;11,7;22,11;
+start=20,7;
