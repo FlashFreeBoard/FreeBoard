@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Feb 10 18:22:24 CET 2020
+wall=Olomouc20191116.wall
+date=1581355333860
+name=Black line
+author=Vasek
+grade=13
+top=10,0;
+path=7,2;8,4;9,6;12,8;10,9;11,11;
+start=10,13;
