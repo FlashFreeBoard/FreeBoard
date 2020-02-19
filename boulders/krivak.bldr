@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Fri Sep 20 20:39:57 CEST 2019
+wall=moon400test.wall
+date=1569004786235
+name=krivak
+author=judovana
+grade=19
+top=19,0;
+path=19,1;19,6;13,11;18,11;
+start=9,12;9,15;7,18;

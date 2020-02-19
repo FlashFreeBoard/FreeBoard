@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue Sep 24 11:23:42 CEST 2019
+wall=moon400test.wall
+date=1569317002649
+name=pepino
+author=judovana
+grade=9
+top=11,2;
+path=16,8;17,8;13,12;
+start=8,15;11,16;
