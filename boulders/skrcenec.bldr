@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Feb 24 20:38:16 CET 2020
+wall=Olomouc20191116.wall
+date=1582573088098
+name=skrcenec
+author=ve
+grade=13
+top=
+path=10,2;9,4;11,6;9,7;13,9;9,10;19,10;8,12;19,12;14,13;
+start=10,0;20,7;
