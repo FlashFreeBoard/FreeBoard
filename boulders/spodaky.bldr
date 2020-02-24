@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Feb 24 21:09:29 CET 2020
+wall=Olomouc20191116.wall
+date=1582574961310
+name=spodaky
+author=ve
+grade=13
+top=
+path=3,4;4,4;9,4;13,4;16,4;12,9;0,10;6,10;19,12;
+start=1,5;20,7;
