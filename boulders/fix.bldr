@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Mar 02 20:21:26 CET 2020
+wall=Olomouc20191116.wall
+date=1583176871576
+name=fix
+author=JaVe
+grade=13
+top=21,9;
+path=10,9;5,10;10,10;12,10;16,11;20,12;14,13;
+start=2,11;6,11;
