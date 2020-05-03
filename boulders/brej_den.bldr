@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun May 03 17:25:01 CEST 2020
+wall=Olomouc20191116.wall
+date=1588519485039
+name=brej den
+author=martin dolasek
+grade=17
+top=19,0;
+path=15,0;12,4;13,4;14,7;12,12;
+start=13,9;
