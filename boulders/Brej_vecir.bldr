@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue Jun 02 20:12:45 CEST 2020
+wall=Olomouc20191116.wall
+date=1591121556600
+name=Brej vecir
+author=Martin Dolasek
+grade=16
+top=15,0;
+path=12,4;12,5;9,6;10,7;11,12;
+start=11,8;
