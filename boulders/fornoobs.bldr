@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Jun 28 13:56:20 CEST 2020
+wall=Olomouc20191116.wall
+date=1593345342095
+name=fornoobs
+author=bruntal
+grade=9
+top=15,0;
+path=15,3;12,4;14,6;12,8;16,9;15,10;
+start=13,12;16,13;
