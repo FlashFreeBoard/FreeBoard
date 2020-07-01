@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Jul 01 17:38:17 CEST 2020
+wall=Olomouc20191116.wall
+date=1593617874724
+name=prvni posledni 
+author=jirka
+grade=12
+top=4,0;
+path=5,2;5,4;1,5;4,7;4,9;
+start=5,13;
