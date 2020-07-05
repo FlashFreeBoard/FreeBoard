@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Jul 05 14:26:17 CEST 2020
+wall=Olomouc20191116.wall
+date=1593951964572
+name=nezastavuj
+author=bruntal
+grade=9
+top=7,0;
+path=10,0;10,1;12,3;16,4;19,5;10,7;12,9;17,11;
+start=20,7;21,9;22,15;
