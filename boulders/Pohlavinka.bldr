@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Jul 19 16:58:27 CEST 2020
+wall=Olomouc20191116.wall
+date=1595170698646
+name=Pohlavinka
+author=Lacko
+grade=13
+top=15,0;
+path=11,2;13,5;11,7;12,10;
+start=10,13;10,14;
