@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Thu Jul 30 19:17:23 CEST 2020
+wall=Olomouc20191116.wall
+date=1596129430165
+name=Radioaktivita
+author=Krystof
+grade=19
+top=15,0;
+path=13,3;15,5;15,8;13,12;
+start=17,10;
