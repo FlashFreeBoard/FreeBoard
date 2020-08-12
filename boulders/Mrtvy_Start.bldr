@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Wed Aug 12 17:30:59 CEST 2020
+wall=Olomouc20191116.wall
+date=1597246250010
+name=Mrtvy Start
+author=URBAN FATAL
+grade=18
+top=7,0;
+path=1,11;1,12;
+start=8,5;11,5;7,9;13,9;8,10;11,15;
