@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sun Aug 16 11:46:30 CEST 2020
+wall=Olomouc20191116.wall
+date=1597571178421
+name=Anetino poteseni
+author=oondrej
+grade=10
+top=15,0;
+path=14,1;12,3;12,5;11,7;13,9;12,10;
+start=13,12;
