@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Aug 22 15:19:59 CEST 2020
+wall=Olomouc20191116.wall
+date=1598102373335
+name=nejde
+author=vojta
+grade=17
+top=16,0;
+path=12,3;12,6;15,8;
+start=11,12;
