@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Aug 22 15:39:50 CEST 2020
+wall=Olomouc20191116.wall
+date=1598103563640
+name=rovne
+author=david
+grade=14
+top=12,1;
+path=12,3;12,6;9,8;12,8;11,10;
+start=10,13;
