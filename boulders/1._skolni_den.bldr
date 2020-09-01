@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Tue Sep 01 17:05:19 CEST 2020
+wall=Olomouc20191116.wall
+date=1598972706118
+name=1. skolni den
+author=vaclav-venca
+grade=10
+top=
+path=8,1;3,2;5,5;1,7;4,8;1,10;3,10;
+start=2,12;
