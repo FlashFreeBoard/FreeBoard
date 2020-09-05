@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Sep 05 11:25:56 CEST 2020
+wall=Olomouc20191116.wall
+date=1599297616770
+name=tri tygri jsou v topu
+author=viktor taifun
+grade=17
+top=
+path=9,2;12,3;8,6;12,6;7,7;15,8;8,10;
+start=12,10;11,15;
