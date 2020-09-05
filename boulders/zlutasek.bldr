@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Sep 05 17:51:03 CEST 2020
+wall=Olomouc20191116.wall
+date=1599321038835
+name=zlutasek
+author=df
+grade=17
+top=3,3;
+path=3,5;3,7;2,9;
+start=1,12;
