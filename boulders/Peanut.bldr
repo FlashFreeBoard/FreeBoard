@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Sat Sep 19 14:37:22 CEST 2020
+wall=Olomouc20191116.wall
+date=1600519012795
+name=Peanut
+author=Kubka
+grade=12
+top=13,1;
+path=12,3;14,6;12,8;15,10;
+start=13,12;
