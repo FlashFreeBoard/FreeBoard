@@ -1,0 +1,10 @@
+#x1,y1;x2,y2;...;xn,yn;
+#Mon Oct 05 18:49:46 CEST 2020
+wall=Olomouc20191116.wall
+date=1601916518239
+name=regenerace
+author=Jasa
+grade=14
+top=22,0;
+path=22,2;14,4;22,4;20,6;20,7;18,9;22,9;16,10;19,12;16,13;15,15;
+start=15,10;13,12;
